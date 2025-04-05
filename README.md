@@ -31,7 +31,7 @@ QuizApp aims to deliver a seamless and engaging quiz-taking experience for learn
   - Django
 
 - **Database:**
-  - SQLite (default, can be configured to PostgreSQL/MySQL)
+  - SQLite
 
 ---
 
